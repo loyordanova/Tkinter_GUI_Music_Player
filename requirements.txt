@@ -1,3 +1,0 @@
-mutagen==1.47.0
-pillow==10.3.0
-pygame==2.5.2

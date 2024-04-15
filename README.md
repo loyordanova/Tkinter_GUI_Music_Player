@@ -12,5 +12,6 @@
 
 ---
 <p align="center">
-<img width="501" alt="Screenshot 2024-04-14 at 22 05 10" src="https://github.com/loyordanova/Tkinter_GUI_Music_Player/assets/122961637/0223edb7-2f4a-4ed0-bce1-69e08d2a6657">
+<img width="500" alt="Screenshot 2024-04-15 at 9 54 45" src="https://github.com/loyordanova/Tkinter_GUI_Music_Player/assets/122961637/fd5088e8-5bad-4f16-a828-28a43a407654">
 </p>
+
